@@ -4,8 +4,11 @@
 # ─────────────────────────────────────────────────────────────────────────────
 
 ## PROJECT
-Affiliate-marketing side hustle. SaaS affiliate payouts → niche software-stack
-blogs → Pinterest funnel. Solo, ~$0 budget, US, research phase.
+FLOW STATE ONLINE — a conscious/wellness/flow-state rave media BRAND + audience
+(national arm of Nick's SLC event company). Monetized by brand deals + events +
+own products + an affiliate/ads FLOOR. Pinterest + blog + short-form + email =
+top-of-funnel + affiliate "audition"; the event company is the moat. Solo, ~$0, US.
+Direction stress-tested + reshaped 2026-07-03.
 
 ## VAULT FILES
 
@@ -17,6 +20,11 @@ blogs → Pinterest funnel. Solo, ~$0 budget, US, research phase.
 | PINTEREST-PLAYBOOK.md | Pinterest operating manual (real-data)   | locked   | Building/running the Pinterest side |
 | FLOW-STATE-MASTER-PLAN.md | The complete plan (single doc)       | live     | The one-doc overview of the whole business |
 | KEYWORD-MAP.md | Keyword -> content -> affiliate map            | live     | Planning content, titles, editorial calendar |
+| ALIGNED-BRANDS.md | Brand-partner target list + pitch          | live     | Brand-deal outreach / building the pipeline |
+| CONTENT-PLAN.md | First content cluster (live Pinterest data)  | live     | Writing posts / making pins / calendar |
+| BLOG-SPEC.md   | /blog tech spec + experience-skill system     | live     | Scaffolding /blog, authoring posts, building skills |
+| BUILD-BRIEF-blog.md | Self-contained handoff for Claude Code   | live     | Hand to the Claude Code session that builds /blog |
+| AFFILIATE-BLOG-PLAN.md | Standalone event-INDEPENDENT income engine | live | Building/writing the standalone gear blog; affiliate apply order; income gates |
 
 ## STATUS DEFINITIONS
 # locked   → stable, pull on demand, changes rarely
@@ -29,5 +37,7 @@ blogs → Pinterest funnel. Solo, ~$0 budget, US, research phase.
 # 3. CLOSE — Update ACTIVE.md, progress or close loops, log session.
 
 ## NOTES
-# Phase = RESEARCH. Don't build until niche + program data justify it.
+# Phase = BUILD-PREP. Direction locked (Flow State, reshaped) + stress-tested +
+# aligned-brand pipeline built (ALIGNED-BRANDS.md). Next = wire Pinterest/blog
+# top-of-funnel + affiliate audition, then brand-partner outreach.
 # WorkflowOS product docs (PDFs + blank templates) live at ../workflowOS/vault_system/.

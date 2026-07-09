@@ -5,29 +5,57 @@
 
 ## OPEN LOOPS
 
-### BUILD — Flow State Online (unfinished tasks)
-- **STATUS:** in progress — plan locked, ready to build
-- **PLAN:** complete plan consolidated in FLOW-STATE-MASTER-PLAN.md. Affiliate
-  foundation + keyword map + Pinterest operating manual locked in vault
-  (REFERENCE.md, KEYWORD-MAP.md, PINTEREST-PLAYBOOK.md).
-- **NEXT (unfinished build tasks):**
-  1. Lock the online brand identity — name treatment, national positioning line,
-     voice extension (Flow State = SAME NAME, national online arm).
-  2. Verify the top ~15 keywords in Ahrefs/Semrush (US, monthly) before betting.
-  3. Stand up property: domain -> self-hosted WordPress -> Pinterest business
-     account (claim domain) -> email capture w/ lead magnet (festival prep +
-     harm-reduction checklist; gated kandi pattern PDF).
-  4. Apply to aligned affiliates (Loop, Eargasm, Cure/Key Nutrients, Today Glitter,
-     Love Khaos, Freedom Rave Wear, Dr. Martens via CJ) — run each through the filter.
-  5. Build first content: "Ultimate Festival Packing List" HUB + "Best Earplugs
-     for Raves" review + a flow-state/culture flagship. Point TikTok/IG at it.
-  6. Resolve the pin-design tension: bright/high-contrast pins vs dark brand — test.
-  7. Content calendar: sequence outfit/packing/Coachella for a FEB publish (ahead
-     of the Mar-Jul search spike).
-- **CONTEXT:** $0, solo, build BOTTOM-UP (affiliate+blog -> up to brand deals).
-  Plan is a DRAFT — review + refine. Keep a hard revenue layer under the free
-  content. Diversify (Pinterest + Google + email + TikTok/IG). ~18-24mo to
-  ad-scale; the event company de-risks it.
+### BUILD — Flow State Online (RESHAPED post-stress-test 2026-07-03)
+- **STATUS:** cluster locked; BLOG ARCHITECTURE decided + self-contained build brief ready
+- **LAST (2026-07-08):** Decided the blog architecture — build NATIVELY in the EXISTING
+  flowstateslc.live app (custom Next.js on Vercel) at the /blog SUBDIRECTORY (NOT WordPress,
+  NOT a new domain — best SEO + one codebase + AI-authorable). Posts = MDX content-as-code
+  (AI writes file -> commit -> Vercel deploys). Anti-slop solved via "EXPERIENCE SKILLS" —
+  exercises that extract Nick's real first-hand experience + real event photos, woven into
+  each post. Wrote BLOG-SPEC.md (the system) + BUILD-BRIEF-blog.md (self-contained handoff
+  for a fresh Claude Code session running INSIDE the flowstateslc.live repo).
+- **PRIOR (2026-07-03):** Fixed vault to the reshape. Reconciled the Pinterest+blog role
+  (top-of-funnel + affiliate audition, NOT the income engine). Ran LIVE Pinterest vertical
+  validation on Nick's account -> locked the first 6-post cluster in CONTENT-PLAN.md.
+  Findings: Pinterest discovery = OUTFITS + MAKEUP + KANDI only; sober/wellness = ZERO
+  Pinterest demand (off-platform play); earplugs/gear = shopping/Google term, not Pinterest reach.
+- **MODEL (reshaped):** NOT an affiliate/ads blog to replace income — 4 kill-tests
+  killed that (a $50-500/mo hobby, wrong tribe, tiny/walled keywords, decaying
+  channel). INSTEAD: Flow State = conscious/wellness/flow-state rave AUDIENCE +
+  brand -> monetize via BRAND DEALS + EVENTS + OWN PRODUCTS + affiliate/ads FLOOR.
+  Event company = the moat. AFFILIATE = the AUDITION (prove you drive sales ->
+  convert to flat brand deals), NOT the income engine. Full verdict in REFERENCE.md
+  (STRESS TEST section).
+- **CHANNELS:** short-form video (TikTok/Reels — Nick has 10k) + EMAIL primary;
+  Pinterest + blog = evergreen SEO/discovery + affiliate-audition layer (crucial as
+  top-of-funnel + owned home, NOT the income engine). Cadence ~8-10 hrs/wk; content
+  is marketing FOR the events (hours double-count).
+- **NEXT (two parallel tracks):**
+  A. BUILD THE MACHINE — hand BUILD-BRIEF-blog.md to a Claude Code session running INSIDE
+     the flowstateslc.live repo -> it scaffolds /blog (MDX pipeline, component kit,
+     products.ts, /go redirect, sample earplugs post). Then swap in real affiliate URLs
+     + hero images (in ONE place), and wire <EmailOptin> to the ESP.
+  B. WRITE POST #1 — run the EXPERIENCE SKILLS (BLOG-SPEC.md Part B). IMMEDIATE NEXT
+     ACTION: the FIELD-TEST + HOT-TAKE interview on rave EARPLUGS -> real-experience
+     blocks -> AI drafts the earplugs-review MDX. (Not started.)
+  Then (post-blog): apply to first affiliates (Loop/Eargasm/Alpine/Cure/Today Glitter/
+  Rave Doctor/TestKitPlus); pick + set up email ESP (MailerLite/Kit) + the two lead magnets
+  (kandi pattern PDF + festival-prep/harm-reduction checklist); set up Pinterest business
+  account + claim flowstateslc.live; batch fresh pins for the 3 REACH posts (outfits/makeup/
+  kandi); verify non-alc beverage programs; build the outreach tracker + first pitches
+  (Rave Doctor + local harm-reduction booth); lock the online brand identity.
+- **CONTEXT:** $0, solo, US. Harm-reduction + sober-curious/wellness = richest, most
+  on-brand lanes (+ Utah SB86 = local drug-checking legal edge). Affiliate converts
+  on GEAR (earplugs/hydration), not outfits. Keep the events as the hard revenue layer.
+
+### BRAND-PARTNER PIPELINE — Flow State
+- **STATUS:** list built (ALIGNED-BRANDS.md); outreach not started
+- **LAST:** Enumerated aligned partners across 7 lanes (earplugs, recovery, hydration,
+  harm-reduction + local orgs, sober-curious/wellness, sustainable wear, non-alc
+  beverage). Top 10 ranked. Event-activation pitch validated (brands pay for festival
+  sampling: Liquid I.V. 1.7M units, Alpine/Eargasm booths, Cymbiotika local events).
+- **NEXT:** verify non-alc programs -> outreach tracker -> draft + send first pitches.
+  Pitch = affiliate audition + on-site event activation (the thing no pure creator offers).
 
 ---
 
@@ -54,6 +82,21 @@
 | 2026-06-30 | 3 adversarial kill-tests INVALIDATED Etsy thesis (affiliate   | Closed/parked: Etsy       |
 |            | dead, saturated, no migration, Pinterest=beginners). Closed   | thesis; opened:           |
 |            | out. Nick pivoting to PHOTOGRAPHER space.                     | photographer space        |
+| 2026-07-01 | Photographer space validated + KILLED (same wall). Meta-      | Closed: photographer;     |
+|            | finding: Pinterest=beginners not operators (vehicle problem). | opened: strategic pivot   |
+|            | Nick's EVENT COMPANY (Flow State) surfaced = the edge.        |                           |
+| 2026-07-02 | Committed FLOW STATE. Full research: scene, affiliate         | Closed: direction +       |
+|            | foundation, Pinterest playbook, keyword map. Consolidated to  | research; opened: BUILD    |
+|            | FLOW-STATE-MASTER-PLAN.md. Pushed vault to private git.       |                           |
+| 2026-07-03 | 4 adversarial kill-tests -> plan RESHAPED (not an affiliate   | Reshaped: BUILD loop;      |
+|            | blog; audience/brand -> brand deals+events+products, affiliate| opened: brand-partner     |
+|            | = audition). Built aligned-brand pipeline (ALIGNED-BRANDS.md).| pipeline                  |
+| 2026-07-03 | Fixed vault to reshape. Reconciled Pinterest+blog role. LIVE  | Progressed: BUILD         |
+|            | Pinterest vertical validation -> locked first content cluster | (cluster locked)          |
+|            | (CONTENT-PLAN.md). Discovery = outfits/makeup/kandi only.     |                           |
+| 2026-07-08 | Blog architecture: native Next.js /blog on flowstateslc.live  | Progressed: BUILD         |
+|            | (NOT WordPress). MDX content-as-code + experience-skills anti- | (blog spec + handoff      |
+|            | slop system. Wrote BLOG-SPEC.md + BUILD-BRIEF-blog.md handoff. | ready)                    |
 
 ---
 
