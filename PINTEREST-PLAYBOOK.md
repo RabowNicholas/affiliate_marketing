@@ -134,6 +134,19 @@
   GOOGLE buyer-intent first, PINNED second (85% of affiliate clicks come from
   organic search, not Pinterest directly). -> This is exactly the "Survival Kit"
   pillar. Validated.
+  ⚠ **CORRECTED 2026-07-15 — this line is GENERIC CATEGORY WISDOM, not niche-validated.**
+  It was true for travel/food, where packing-list volume is enormous. TWO live probes on
+  Nick's own account contradict it for THIS niche:
+    · 07-03: "festival packing list exists but TINY vs outfits — NOT a Pinterest traffic driver."
+    · 07-15: alive but its #1 result is a SELF-CONTAINED checklist infographic = the 0.1%-CTR trap.
+  **LIVE NICHE DATA BEATS CATEGORY WISDOM. Do NOT "lead with" the packing list on Pinterest
+  on the strength of this line.** See CONTENT-PLAN.md "LIVE PINTEREST PROBE #2" for the real map.
+  ALSO CORRECTED: "'best X' roundups + 'X vs Y' comparisons are Pinterest-native" holds only for
+  VISIBLE/WEARABLE gear (hydration packs → Backpack/Vest tiles). For INVISIBLE gear it is FALSE:
+  "festival earplugs" returns ZERO guided tiles + a Shop module; "festival electrolytes" returns
+  ZERO tiles + DIY drink recipes. Pin comparisons of things people can SEE.
+  The 85%-from-organic-search line is the one to actually govern by: Pinterest is a SUPPLEMENT to
+  Google here, never the affiliate engine.
 - AI = scaffolding ONLY (outlines, keyword clusters, pin copy, research). NOT the
   ranking words. Google's HCU hammered scaled-AI affiliate content (71% of
   affiliate sites hit). You write the experience/opinion/review layer.
@@ -163,7 +176,12 @@
   State's aesthetic is dark/underground. Resolve by giving PINS a brighter, high-
   contrast treatment (test) while keeping the blog/brand core dark. Reach depends
   on it — don't force the dark aesthetic onto the pins untested.
-- The "Rave Survival Kit / what's in my fanny pack" packing-list = the exact
-  highest-converting, Pinterest-native, Google-buyer-intent format. Lead with it.
+- ⚠ **SUPERSEDED 2026-07-15.** (Was: "The 'Rave Survival Kit / what's in my fanny pack'
+  packing-list = the exact highest-converting, Pinterest-native, Google-buyer-intent format.
+  Lead with it.") Two live probes say otherwise for THIS niche — packing list is tiny vs outfits
+  and its top pin is a self-contained infographic. The REAL Pinterest × money overlap is
+  **FESTIVAL CAMPING** (5/8 probes route there; richest tile set; Pinterest curating boards;
+  advertisers buying) — which is also the highest-AOV affiliate lane (Outdoorsy $60-110/booking).
+  Lead with CAMPING on Pinterest, not the survival kit. See CONTENT-PLAN.md PROBE #2.
 - DIVERSIFY from day one: Pinterest (new, ignition) + Google SEO + email + the
   existing TikTok 10k/IG 5k. Don't bet the business on Pinterest alone.

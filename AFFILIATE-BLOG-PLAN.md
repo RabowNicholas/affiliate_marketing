@@ -1,8 +1,19 @@
 # AFFILIATE-BLOG-PLAN.md — Standalone Portable-Income Engine
 # ─────────────────────────────────────────────────────────────────────────────
-# STATUS: live (v1, 2026-07-09). The EVENT-INDEPENDENT track: a rave gear /
+# STATUS: live (v2, 2026-07-09). The EVENT-INDEPENDENT track: a FESTIVAL gear /
 # buying-guide blog that makes affiliate + product + ad money on its own, with
 # NO dependency on the SLC event company. Full 18-24mo compounding commitment.
+# BRAND LOCKED (v2): FESTIVAL FIELD GUIDE — festivalfieldguide.com (available, registering).
+# SCOPE PIVOT (v2, research-driven): FESTIVAL-BROAD, not rave-narrow. 3-agent research
+# (SERP + scope economics + domains) overturned two v1 assumptions:
+#   1. Earplugs are NOT the easy win — SERP owned by Rolling Stone/Forbes/Hearing
+#      Tracker/HearAdvisor (audiologist-credentialed) = HARD. EASIEST WIN = ELECTROLYTES
+#      (page 1 = 90% brand self-promo, zero honest cross-brand comparison, real demand).
+#   2. Rave-narrow = economics trap: ad RPM $1-3 (music excluded from Mediavine) + tiny
+#      affiliate AOV ($3-18/sale) -> ~$400-700/mo ceiling. FESTIVAL-BROAD lifts RPM 3-4x
+#      (travel/lifestyle category, Raptive-eligible) AND unlocks high-AOV camping/RV
+#      affiliate (RVshare $900 AOV, Outdoorsy flat $60-100) = 3-6x better $/transaction.
+#      Same audience, no rebrand. Yr-3 ceiling ~$1.7-3.6k/mo. Rave = a FEEDER silo now.
 # PULL WHEN: building/writing the standalone blog, applying to affiliates,
 # planning the money-content calendar, or setting income gates.
 # Grounded in REFERENCE.md (4 stress-tests + scene study + Pinterest-money study),
@@ -35,14 +46,23 @@ real ad money is a year-2 event. ~80% quit ~month 18. Accept the curve or don't 
 **THE HUB** (the router — most important page):
 - Ultimate Festival Packing List 2026 (~8k) — links every gear spoke + email magnet.
 
-**MONEY SPOKES** (Google buyer-intent, gear, high commission — BUILD THESE FIRST):
-- Best Earplugs for Raves: Loop vs Eargasm vs Alpine (~800 low comp) — Loop/Eargasm 15%, Alpine 12.5%. EASIEST WIN.
-- Best Electrolytes for Festivals (~150 near-zero comp) — Cure 20-25% / Key Nutrients 15-25%. OWN FOREVER.
-- Loop Earplugs Review (~12k) — Loop 15%.
-- TORRAS COOLiFY Review / Best Neck Fans for Festival Heat (~8-12k) — TORRAS 15%.
-- Best Water Bottles for Festivals (~300 low comp) — Nalgene/Hydro Flask/LARQ 8-10%.
-- Best Boots for Raves: Dr Martens vs Platform (~6k) — Dr Martens 10%, high AOV.
-- Festival Camping / RV Rental + Shiftpod (seasonal, high AOV) — Outdoorsy $60-110/booking, RVshare ~$950 AOV, Hipcamp 5%, Shiftpod 5% + 365d cookie.
+**MONEY SPOKES** — REORDERED BY SERP RESEARCH (build easy-wins + high-AOV FIRST):
+- Best Electrolytes for Festivals (~150 near-zero comp) — Cure 20-25% / Key Nutrients 15-25%.
+  ★ EASIEST WIN (SERP page 1 = 90% brand self-promo, zero honest comparison). OWN FOREVER. #1 build.
+- Festival Camping / RV Rental cluster (HIGH-AOV MONEY ENGINE — the v2 breakout) — Outdoorsy
+  flat $60-110/booking, RVshare ~$900-950 AOV @ 4% = ~$36/booking, Hipcamp 5%, Shiftpod 5% +
+  365d cookie. ONE booking beats the entire rave affiliate spine. Coachella/EDC/Burning Man
+  camping guides = under-served by travel incumbents (they ignore festival logistics).
+- Ultimate Festival Packing List (THE HUB, ~8k, MEDIUM comp — no big-authority moat, winnable).
+- Best Water Bottles for Festivals (~300, MEDIUM — Refinery29 present but no festival-depth) — Nalgene/Hydro Flask/LARQ 8-10%.
+- TORRAS COOLiFY Review / Best Neck Fans (~8-12k) — TORRAS 15%. Note: neck-fan SERP = HARD
+  (CNN/Today/Billboard); play the festival-lifestyle angle on the Torras product review only.
+- Best Boots for Festivals: Dr Martens vs Platform (~6k) — Dr Martens 10%, high AOV.
+- Best Earplugs for Festivals: Loop vs Eargasm vs Alpine (~800) — Loop/Eargasm 15%, Alpine 12.5%.
+  ⚠ DEMOTED from v1 "easiest win" — SERP is HARD (Rolling Stone/Forbes/Hearing Tracker/
+  HearAdvisor own it). Still publish (affiliate converts), but do NOT lead with it; needs
+  original testing to differentiate. Skip "loop earplugs review" + "best earplugs for concerts"
+  early (audiologist-credentialed incumbents, HARD).
 
 **REACH / FEEDER SPOKES** (Pinterest ignition — job = traffic + email, ~10% or $0):
 - 50 Rave Outfit Ideas 2026 (~90.5k / Pinterest 386k) — FRW/Love Khaos 10%. TRAFFIC MONSTER.
@@ -65,9 +85,23 @@ Every reach post ends "Got the fit? Here's everything else you need ->" into the
 - **GOOGLE SEO = compounding (yr 2+).** The gear reviews + hub. Buyer-intent, evergreen.
   This is where the standalone money actually compounds. AI for scaffolding ONLY —
   write the real experience/opinion yourself (HCU hit 71% of affiliate sites).
-- **EMAIL = owned insurance (day 1).** Two lead magnets: kandi pattern PDF + festival-
-  prep/harm-reduction checklist. List promotes the money content year-round, smooths
-  the Feb-Oct seasonality.
+- **EMAIL = owned insurance (day 1).** Magnet #1 = FESTIVAL-PREP / HARM-REDUCTION CHECKLIST
+  (matched magnet: compiles from the 5 live posts, captures people already reading gear content,
+  5-15% conv vs 2-5% for an unrelated magnet; Google autocomplete confirms real demand —
+  "festival packing list template/download"). List promotes the money content year-round, smooths
+  the Feb-Oct seasonality. **KANDI PATTERN PDF = KILLED 2026-07-15** (4 adversarial agents,
+  convergent on all 4 axes — full detail in ACTIVE.md "LAST 2026-07-15 strategy"): self-contained
+  pins (~0.1% CTR) + Pinterest's TransActV2 favoring in-app engagement over outbound clicks + AI
+  Overviews eating "how to make X" + Eras-Tour-polluted volume (the 748k/33k figures could NOT be
+  verified by 3 independent agents) + a 10-month dormancy that poisons deliverability for the whole
+  domain (ISP penalties ~3mo, spam traps ~12mo). It was also the same cheap-traffic-wrong-wallet
+  trap that killed the Etsy, photographer, and original-rave theses.
+  ⚠ CAUTION: the reach/feeder spokes in §3 (outfits, makeup, kandi) are ALL self-contained
+  inspiration = the 0.1%-CTR category. Do not assume they ignite the funnel. The clickable
+  Pinterest content is the GEAR COMPARISONS + the packing hub (a "Loop vs Eargasm" table can't
+  fit in a pin). Intersection of {what Pinterest distributes} ∩ {what clicks} is THIN, not empty
+  — "rave earplugs" is the #1 "rave" autocomplete. UNMEASURED on Nick's account: run the ~4hr/$0
+  Pinterest test before betting either way.
 
 ## 5. AFFILIATE APPLY ORDER (pure-affiliate, no event pitch needed here)
 Gear-first (the converters): Loop -> Eargasm -> Alpine (Awin) -> Cure (Impact) ->
@@ -112,8 +146,21 @@ Doubles as the email upsell. Ships AFTER the reach posts prove they capture emai
 - **Theme:** GeneratePress or Kadence (lightweight, fast, ad-network-friendly).
 - **Plugins:** Rank Math (SEO/schema, free) · Pretty Links (free) -> Lasso (paid, link
   mgmt + comparison tables, when revenue justifies) · image optimizer (ShortPixel/Imagify)
-  · WP Rocket or host-level caching · MailerLite/Kit form plugin.
-- **Email:** MailerLite -> Kit. **Pins:** Tailwind (~$18/mo, approved partner) or native.
+  · WP Rocket or host-level caching · Kit form plugin (NOT MailerLite — see Email below).
+- **Email: KIT (formerly ConvertKit) — MailerLite is DISQUALIFIED (corrected 2026-07-15).**
+  MailerLite's prohibited-content policy bans "Affiliate marketing and multi-level marketing
+  (MLMs)" verbatim, blanket, no exceptions clause — and new accounts get a compliance review.
+  This site's whole email thesis is routing the list to affiliate money spokes, so MailerLite
+  forbids the business model. Its free tier also collapsed (June 2026): 250 subs / 2,500
+  emails/mo / 1 landing page (subscribepage.io subdomain, their logo, no custom domain) / 3
+  forms / 3 automations. KIT free = 10,000 subs, unlimited sends, unlimited landing pages +
+  forms, 1 automation, custom domain — and affiliate marketing is ALLOWED under a stated
+  70/30 rule (70-80% own content, max 20-30% affiliate). That rule shapes sequence design:
+  the welcome sequence must be mostly genuine advice, gear as the consequence. Sources:
+  mailerlite.com/help/is-there-any-content-that-mailerlite-doesn-t-allow · kit.com/pricing ·
+  help.kit.com/en/articles/4881296. (Kit free custom-domain support: likely, not 100%
+  confirmed from an official page — verify at setup.)
+  **Pins:** Tailwind (~$18/mo, approved partner) or native.
   **Analytics:** GA4 + Search Console. **Ads ladder:** AdSense (Site Kit) -> Journey by
   Mediavine (~1k sessions) -> Mediavine (~50k sessions) / Raptive (~100k pv). Verify live
   thresholds before betting — they shift.
@@ -133,10 +180,11 @@ option was rejected — this is a separate, sellable asset.)
 
 ## 12. TO-DO (build checklist — work top-down)
 
-### PHASE 0 — Brand + domain (the blocker)
-- [ ] Pick the standalone brand name (rave-gear-review, NOT "Flow State")
-- [ ] Check .com availability + socials
-- [ ] Register domain (Cloudflare at-cost or Namecheap)
+### PHASE 0 — Brand + domain (RESOLVED 2026-07-09)
+- [x] Brand name picked: FESTIVAL FIELD GUIDE (festival-broad, editorial/review authority)
+- [x] .com confirmed available: festivalfieldguide.com
+- [ ] Register festivalfieldguide.com (Cloudflare at-cost or Namecheap) ← IMMEDIATE NEXT ACTION
+- [ ] Grab social handles (@festivalfieldguide — check IG/TikTok/Pinterest/X)
 
 ### PHASE 1 — Stand up WordPress (~1 evening)
 - [ ] Sign up managed host (Cloudways ~$11/mo, or SiteGround GrowBig)
@@ -148,8 +196,10 @@ option was rejected — this is a separate, sellable asset.)
 ### PHASE 2 — Foundations before content
 - [ ] Create GA4 + connect Google Search Console (submit sitemap)
 - [ ] Draft FTC affiliate disclosure (before-the-click, plain language) + add to a reusable block + /disclosure page
-- [ ] Set up MailerLite: signup form + welcome email + double-optin
-- [ ] Build the 2 lead magnets: kandi pattern PDF + festival-prep/harm-reduction checklist
+- [x] Set up branded inbox: Cloudflare Email Routing (FREE) -> hello@festivalfieldguide.com forwards to Gmail (✅ WORKING 2026-07-15; becomes Kit's "from" address)
+- [ ] Set up KIT (not MailerLite — banned, see §8): signup form + welcome sequence + double-optin
+- [ ] Build lead magnet #1: KANDI PATTERN PDF (chosen 2026-07-15 — the reach magnet)
+- [ ] Build lead magnet #2 (later): festival-prep/harm-reduction checklist (compiles from the 5 live posts; seeds the $19-29 Festival Prep System)
 - [ ] Legal pages: About, Contact, Privacy, Affiliate Disclosure
 - [ ] Configure Pretty Links (/go structure for cloaked affiliate links)
 
@@ -161,11 +211,12 @@ option was rejected — this is a separate, sellable asset.)
 - [ ] Amazon Associates (breadth only — never earplugs) · EmazingLights
 - [ ] NOTE: iHeartRaves closed to new apps; ShareASale now Awin
 
-### PHASE 4 — Publish anchor content (in this order)
-- [ ] #1 Ultimate Festival Packing List 2026 (THE HUB — links every gear spoke + email magnet)
-- [ ] #2 Best Earplugs for Raves: Loop vs Eargasm vs Alpine (easiest money win)
-- [ ] #3 Best Electrolytes for Festivals (near-zero comp — own forever)
-- [ ] #4 First reach post: 50 Rave Outfit Ideas 2026 (traffic + email)
+### PHASE 4 — Publish anchor content (REORDERED by SERP research)
+- [ ] #1 Best Electrolytes for Festivals (★ easiest win — page 1 = brand-bias gap, real demand)
+- [ ] #2 Ultimate Festival Packing List 2026 (THE HUB — links every gear spoke + email magnet)
+- [ ] #3 Festival Camping / RV Rental guide (HIGH-AOV engine — Outdoorsy/RVshare; Coachella/EDC angle)
+- [ ] #4 First reach post: 50 Festival Outfit Ideas 2026 (Pinterest traffic + email)
+- [ ] (later) Best Earplugs for Festivals — DEMOTED; publish but don't lead (SERP is HARD)
 - [ ] Wire every reach post -> "here's everything else you need ->" -> the hub
 
 ### PHASE 5 — Distribution + compounding (ongoing)

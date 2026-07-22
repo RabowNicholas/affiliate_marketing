@@ -25,6 +25,8 @@ Direction stress-tested + reshaped 2026-07-03.
 | BLOG-SPEC.md   | /blog tech spec + experience-skill system     | live     | Scaffolding /blog, authoring posts, building skills |
 | BUILD-BRIEF-blog.md | Self-contained handoff for Claude Code   | live     | Hand to the Claude Code session that builds /blog |
 | AFFILIATE-BLOG-PLAN.md | Standalone event-INDEPENDENT income engine | live | Building/writing the standalone gear blog; affiliate apply order; income gates |
+| POST-PLAYBOOK.md | How FFG posts get made (the repeatable process, n=5) | live | Writing any FFG post; building/refining the post skills |
+| AFFILIATE-TRACKER.md | Program application status + network-first apply order | live | Applying to affiliates; swapping placeholder links on approval |
 
 ## STATUS DEFINITIONS
 # locked   → stable, pull on demand, changes rarely
@@ -41,3 +43,6 @@ Direction stress-tested + reshaped 2026-07-03.
 # aligned-brand pipeline built (ALIGNED-BRANDS.md). Next = wire Pinterest/blog
 # top-of-funnel + affiliate audition, then brand-partner outreach.
 # WorkflowOS product docs (PDFs + blank templates) live at ../workflowOS/vault_system/.
+# SKILLS: .claude/skills/ holds two FFG skills — ffg-write-post (research→interview→draft→review)
+#   and ffg-publish (WP mechanics + gotchas). Both reference REFERENCE.md + POST-PLAYBOOK.md as
+#   the single source of truth. Invoke with /ffg-write-post or /ffg-publish.

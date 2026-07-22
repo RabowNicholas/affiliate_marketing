@@ -4,7 +4,54 @@
 # Grounded in live Pinterest autocomplete pulled on Nick's account 2026-07-03.
 # ─────────────────────────────────────────────────────────────────────────────
 
-## LIVE PINTEREST VERTICAL MAP (what actually has demand)
+## ★ LIVE PINTEREST PROBE #2 — FESTIVAL-BROAD (2026-07-15, Nick's acct, guided-search tiles)
+# WHY: probe #1 below was run 07-03 when the plan was still RAVE-NARROW. The site is now
+# FESTIVAL-BROAD (v2). Nobody had ever probed the festival cluster. This is that probe.
+# METHOD: pinterest.com/search/pins/?q=<term> → read GUIDED-SEARCH TILES (Pinterest's own
+# refinement suggestions) = a proxy for CONTENT-ECOSYSTEM DEPTH, *not* search volume.
+# CAVEAT: 8 terms, one account, one day. Tiles ≠ volume. Directional, not a measurement.
+
+| Term | Guided tiles | Verdict |
+|---|---|---|
+| **festival camping** | Setup · Hacks · Music · Aesthetic · List · Id… | ★ **RICHEST.** + Pinterest-curated boards ("Your festival homebase" 353 pins) + Amazon SPONSORED pin |
+| **festival hacks** | Camping · Tips · Music · Car camping · Diy · Rain | RICH. Routes to camping. Sponsored pins present |
+| festival packing list | Music · Camping · **Download** · Summer · Uk | ALIVE. ⚠ #1 result = a SELF-CONTAINED "Ultimate Festival Packing List" infographic |
+| festival essentials | Music · Packing lists · **Bag** · List · Aesthetic | ALIVE. Top pin = a numbered listicle ("11 rave essentials"), not a checklist |
+| festival hydration | Station · **Backpack** · Outfit with · **Vest** · Station music | ALIVE. Top pin = competitor's "Top 10 Festival Hydration Packs" listicle |
+| coachella packing list | Camping packing · Car camping packing | THIN — and BOTH tiles say camping |
+| first festival tips | Festive french · Music · Hacks · Festive | THIN + POLLUTED ("festive" bleeds into nails/Christmas) |
+| **festival earplugs** | **NONE** → renders a "Shop festival earplugs" module | ✗ **DEAD for content.** Pinterest converts it to its own commerce surface |
+| **festival electrolytes** | **NONE** → results are DIY drink recipes | ✗ **DEAD + ANTI-AFFILIATE.** Intent = "Nature's Gatorade, make your own", not "buy LMNT" |
+
+### THE LAW THIS REVEALS (the useful finding)
+**Pinterest carries festival gear that is VISIBLE / WEARABLE / SCENE-SHAPED. It does not carry
+INVISIBLE gear.** Hydration packs get Backpack+Vest+"Outfit with" tiles (they're worn, they're
+photographable). Camping setups get Setup tiles (it's a scene). Earplugs sit IN your ear,
+electrolytes are a powder, insoles are inside a shoe → zero tiles, no ecosystem, Pinterest
+reroutes the query to shopping or to recipes. This is WHY "gear = Google term" (probe #1) is true
+— but it's only true for the INVISIBLE half. Maps onto the 5 live posts:
+- ✓ PIN: the packing HUB, the hydration pack post (visible/wearable)
+- ✗ DON'T PIN FOR REACH: earplugs, electrolytes (dead), insoles (invisible — PREDICTED dead, UNTESTED)
+
+### ★ CAMPING = THE PINTEREST × MONEY JACKPOT, AND THE POST DOESN'T EXIST
+5 of 8 probes route to camping (packing list → Camping tile; coachella → camping tiles ONLY;
+hacks → Camping + Car camping; camping → richest set). Pinterest is CURATING the vertical itself
+and advertisers are buying it. AND camping is the HIGHEST-AOV affiliate in the whole plan
+(Outdoorsy $60-110/booking, RVshare ~$900 AOV) — the plan's own line: one booking beats the entire
+gear spine. It is currently queued BEHIND cooling and sunscreen. **It should jump the queue.**
+
+### "DOWNLOAD" = HOW TO BEAT A SELF-CONTAINED INCUMBENT
+Pinterest's guided tile for "festival packing list" includes **Download**. Google's Rank Math
+autocomplete independently surfaced "festival packing list **template / download**". Two platforms,
+same signal: people want a FILE. The #1 Pinterest result is a complete screenshottable checklist
+(= the 0.1%-CTR trap winning the term). You cannot out-checklist it — a better image still gets
+saved, not clicked. The file is the ONE thing the image can't hold. So: the pin promises the
+PRINTABLE version, never the list itself. This makes the prep-checklist magnet the pin's REASON TO
+EXIST, not a bolt-on — and it's a MATCHED magnet (5-15% conv vs 2-5% unrelated).
+FUNNEL: pin ("the printable festival packing list") → HUB → checklist magnet → email → gear posts.
+Gear posts are fed by EMAIL + GOOGLE. Never by Pinterest directly.
+
+## LIVE PINTEREST VERTICAL MAP (probe #1 — 2026-07-03, RAVE-NARROW scope; superseded in scope, not contradicted)
 | Vertical | Pinterest demand | Shape | Verdict |
 |---|---|---|---|
 | **Rave/festival OUTFITS** | HUGE (dominates "rave"+"festival" autocomplete: women/men/by-vibe/techno/2026/party/fits/inspiration) | aesthetic/browse | **THE reach engine** (retailer-contested → reach + email, light affiliate) |

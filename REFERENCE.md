@@ -152,6 +152,38 @@ ShareASale fully merged into AWIN (Oct 2025).
  -> DECISION: which motion does Nick actually want — an ads-led content blog, or
     an affiliate-led product-curation (LTK) play? Different games.
 
+## ★ RULE — PINTEREST: PIN GEAR PEOPLE CAN SEE (locked 2026-07-15, Nick)
+# Supersedes the blunter "gear = Google term, not Pinterest reach" (CONTENT-PLAN probe #1,
+# 07-03). That line is only HALF true, and the half it gets wrong costs real traffic.
+
+**THE RULE: on Pinterest, pin gear that is VISIBLE / WEARABLE / SCENE-SHAPED. Gear that is
+INVISIBLE in use is a GOOGLE term — do not pin it for reach.**
+
+EVIDENCE (live guided-search tiles, Nick's acct, festival-broad probe 2026-07-15, 8 terms —
+full map + method + caveats in CONTENT-PLAN.md "LIVE PINTEREST PROBE #2"):
+- VISIBLE → real ecosystem: "festival hydration" → Station · **Backpack** · Outfit with · **Vest**
+  (it's worn + photographable; top pin = a competitor's "Top 10 Festival Hydration Packs" listicle).
+  "festival camping" → Setup · Hacks · Car camping (it's a SCENE) = the richest set probed, with
+  Pinterest curating boards and advertisers buying.
+- INVISIBLE → NO ecosystem: "festival earplugs" → ZERO tiles, Pinterest renders a **Shop** module
+  (it converts gear intent into its own commerce surface). "festival electrolytes" → ZERO tiles,
+  results are **DIY drink recipes** — the intent is "make your own Gatorade", which is ACTIVELY
+  ANTI-AFFILIATE. Earplugs sit in your ear; electrolytes are a powder; insoles are inside a shoe.
+
+WHY IT HOLDS: Pinterest is a VISUAL search engine. If the product can't be photographed in use,
+there is no pin worth saving, so no ecosystem forms, so Pinterest reroutes the query to shopping
+or to an adjacent visual intent (recipes). This is the same mechanism as the self-contained-pin
+trap, one layer up: that one says WHAT you pin must not fit in the image; this one says the
+PRODUCT must be visible at all.
+
+APPLIES WITH (does not override) the SELF-CONTAINED rule: a product can be visible AND still fail
+if the pin gives everything away. Both must pass. Visible + can't-fit-in-the-image = the winner
+(a hydration-pack comparison, a camping setup guide, "the PRINTABLE packing list").
+
+CAVEAT: guided tiles measure content-ecosystem DEPTH, not search VOLUME. 8 terms, one account,
+one day. Directional — the outbound-click test is what settles it. Insoles = PREDICTED dead by
+this rule (invisible) but UNTESTED.
+
 ## INTEREST-FIT DIVE #1 — FESTIVAL/RAVE (2026-07-01)
 # Nick's interests: MUSIC (primary, but music-production/community = NOT Pinterest),
 # FOOD/cooking (secondary, Pinterest-fit), + skills: social-marketing/audience-
@@ -859,6 +891,100 @@ the most useful page on the topic.
 - Hype with no actual teaching.
 
 [Refine with a voice exercise after niche selection.]
+
+### FESTIVAL FIELD GUIDE — VOICE (locked 2026-07-13)
+Standalone brand (festivalfieldguide.com), separate from Flow State. Rules:
+- **AUTHOR PERSONA = "RAVE DADDY" (locked 2026-07-14, Nick):** EVERY FFG post is written
+  by and bylined "Rave Daddy" — the named narrator. Persona = the crew's protector: the
+  one who packs extra earplugs, checks everyone's set before the gates, tells you the
+  honest call. Real: it's what Nick's group actually calls him. WP author display name =
+  Rave Daddy (slug rave-daddy). Gives named-author E-E-A-T (Google + reader trust) over a
+  faceless brand. Voice still "we"/crew (below), with Rave Daddy as the narrator; drop to
+  "I" for genuine personal anecdotes (e.g. his own ears-ringing scare).
+- **Person:** "we" / a crew of festival-goers (not "I"; fits brand-only attribution, scales).
+- **Register:** honest but clean. Real about harm-reduction (test kits, hydration,
+  safety, drugs exist) but NO profanity — must stay ad-network + affiliate safe.
+- **Anti-slop process (CRITICAL):** voice is DEVELOPED FROM NICK'S OWN first-draft
+  writing. Nick writes rough/real, Claude learns his patterns and drafts in HIS
+  voice for his edit. Claude NEVER invents a voice cold or auto-generates content
+  in a generic tone. Everything must read genuinely human.
+- **Positioning:** the honest, independent "field guide" — compare across brands,
+  name trade-offs, say when the cheap/free option wins. The anti-retailer-blog.
+- Tone lane (insider-raver vs clean-approachable vs dry-authority) still being
+  dialed in through Nick's actual writing — do not lock it abstractly.
+
+**Voice learnings (session 2026-07-13, from Nick's real writing):**
+- Nick's natural voice = practical, communal, direct, low-key. Real phrasings:
+  "make sure you have it with you," "split them up between your group and help
+  everyone stay hydrated," "take care of each other." Warm + no-nonsense, not hyped.
+- COMMUNAL / crew / look-out-for-each-other angle = strongly on-brand (his instinct).
+- SIGNATURE HONESTY HOOK: feature the genuinely-best product even when it pays $0
+  (LMNT = his favorite AND no affiliate program → say so plainly). This IS the
+  anti-retailer-blog trust moat. Use whenever best product != best-paying.
+- PLAIN-LINK RULE (locked 2026-07-14, Nick): plain (non-affiliate) links are a LAST
+  RESORT, not a default. Use a plain link ONLY when the genuinely-best product for the
+  job has no affiliate program and omitting it would be dishonest (the LMNT case). When
+  affiliate products clearly serve the need well (e.g. Loop + Eargasm for earplugs),
+  feature THOSE — picks / verdict cards / CTAs = affiliate products only. Do NOT include
+  no-program competitors as plain-link picks that dilute revenue for no honesty gain.
+  No-program products MAY still appear as UNLINKED data rows in the comparison table
+  (honest breadth, no link = no dilution) — but never as a recommended pick with a link.
+- MONETIZATION DENSITY (locked 2026-07-14, Nick): posts should be FULL of products that
+  actually make money. Link EVERY gear category that has a real affiliate program — don't
+  leave money on the table. Keep only genuinely non-monetizable items (socks, wipes,
+  first-aid, cash, hand sanitizer) as honest NO-LINK advice (linking a $2 item earns
+  nothing and reads spammy). Prioritize high-AOV / high-rate programs: e.g. Outdoorsy /
+  RVshare camping = $60-110 per booking, beats every gear affiliate combined. This pairs
+  with (does not override) the PLAIN-LINK RULE: still no plain links to no-program
+  competitors, still honesty-hook the genuinely-best-but-unpaid product when it applies.
+- CONFIDENCE RULE: write authoritative, NOT hedgy. "We haven't tested it / going off
+  specs" reads amateur — cut it. Write confident verdicts for spec-based products.
+- HONESTY LINE (do not cross): do NOT fabricate specific first-hand testing anecdotes
+  for products not actually used (FTC endorsement guides + it blows the trust moat).
+  Reserve explicit "we use this" for products Nick really used; others get confident
+  spec/reputation-based verdicts without faked "we tested at X" claims.
+- Products Nick has actually used (first-person OK): LMNT (favorite, fine w/ salty),
+  Liquid I.V. (accessible but too sweet). His real tactic: carry single-serve packets,
+  run half-electrolyte / half-plain-water across the group to pace + stay intentional.
+- **NO AMAZON — hard rule (locked 2026-07-14, Nick):** NEVER use Amazon Associates. No
+  Amazon affiliate links anywhere on the site, ever. Reasons: 1-4.5% rates + 24h cookie +
+  brand-dilution, and it's off-brand for an independent field guide. Route to brand-direct
+  or network programs (Rakuten, etc.) instead. Do NOT add "As an Amazon Associate…"
+  disclosure boilerplate (already stripped from the live disclosure page).
+
+### FESTIVAL FIELD GUIDE — VISUAL IDENTITY (locked 2026-07-14, Nick "love this, sick")
+Direction: **FIELD-GUIDE EDITORIAL**. Conceit = a literal field manual: topographic
+contour texture, specimen-plate swatches, monospace "field notes" for data, plate numbers.
+Deliberately NOT neon-rave-blog and NOT generic cream-serif-AI. Brand board artifact:
+https://claude.ai/code/artifact/ff11b8d7-b2e5-44b9-8ffb-3458a2394a5e
+- **Palette (light):** Pine #294A3A (primary — structure/headers/emblem/table-heads) ·
+  Smoke Coral #E7532F (the pop — links, CTAs, "our pick") · Marigold #DC9A22 (verdict
+  badges, highlights, sun) · Teal Haze #22938A (data tags, quiet 3rd accent) ·
+  Paper #E4DDC9 (warm aged ground) · Ink #1C231D (near-black, pine bias, never flat grey).
+  Coral + marigold + teal pulled from festival-smoke colors in the hero image.
+- **Type:** Fraunces (editorial serif) = headlines + wordmark. Inter / Source Sans = body.
+  MONOSPACE = all labels/specs/data ("field notes") — the signature move.
+- **Components:** verdict card (pine band + "We earn $0 on this" marigold badge = honesty
+  hook baked in) · comparison table (pine head, Pick/Skip pills, tabular-nums) · spec rows
+  in mono. Component CSS lives in the brand-board HTML (scratchpad ffg-brand-board.html) —
+  port to site so API-published posts reuse the classes.
+- **Emblem:** rising festival sun (marigold) + rays (coral) over topo contour lines (pine),
+  in a ring. Simple SVG.
+- **DEFAULT DARK (locked 2026-07-14, Nick):** The site renders DARK for ALL readers — this
+  is the PRIMARY brand register, not an optional theme and not OS-preference-gated. Do NOT
+  "fix" it back to light. Dark palette: ground #141813 · plate/surface #1C211B · surface-2
+  #232A21 · ink #E9E2CE · pine #7FAB8D · coral #F26E50 · marigold #EBB251 · teal #45B7AC
+  (pine/coral lightened so accents hold on dark). Topo texture = light-pine (#7FAB8D) on the
+  dark ground. Light palette above is the fallback/source values, not what ships.
+- **Layout + depth:** field-manual DEPTH is required — darker ground → raised LIGHTER plate
+  (border + soft shadow) → mid-tone inset cards; topographic-contour texture on the ground
+  (CSS-only SVG). Reading column is CENTERED and constrained (~848px) with ground gutters
+  both sides. No sidebar. Flat single-color pages are wrong.
+- **Live styling mechanism:** all site CSS lives in WP Customizer → Additional CSS (setting
+  `custom_css[generatepress]`). It is NOT reachable via REST (custom_css post type = 403);
+  edit it in the logged-in Customizer via `wp.customize('custom_css[generatepress]').set(...)`
+  + `wp.customize.previewer.save()`. GeneratePress paints its own container palette, so the
+  CSS overrides GP vars (`--base`/`--base-3`/`--contrast`/`--accent`) to the brand palette.
 
 ## BANNED VOCABULARY
 # Generic AI-blog / SaaS-marketing tells that kill trust and SEO quality.
